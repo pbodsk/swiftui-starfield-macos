@@ -8,5 +8,8 @@ Because particle systems are cool and because I'm old and love starfields like i
 
 ## Resources that got me here
 https://github.com/ArthurGuibert/SwiftUI-Particles
-https://stackoverflow.com/questions/69646715/how-to-use-caemitterlayer-on-macos-in-a-swiftui-app-using-nsviewrepresentable
+https://stackoverflow.com/questions/69646715/
+
+how-to-use-caemitterlayer-on-macos-in-a-swiftui-app-using-nsviewrepresentable
+
 https://stackoverflow.com/questions/61711020/how-can-i-make-animation-with-caemitterlayer-on-swiftui
